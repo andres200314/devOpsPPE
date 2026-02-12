@@ -240,7 +240,3 @@ feat(controller): implementar endpoints REST POST y GET para estudiantes
 **Andrés Arroyave Cardona**
 - GitHub: [@andres200314](https://github.com/andres200314)
 - Repositorio: [devOpsPPE](https://github.com/andres200314/devOpsPPE)
-
-## Licencia
-
-Este proyecto fue desarrollado como parte de la evaluación de la materia DevOps en la Universidad Pontificia Bolivariana.
